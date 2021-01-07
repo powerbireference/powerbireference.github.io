@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://powerbireference.github.io/powerbireference.github.io/sitemap.xml
