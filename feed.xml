@@ -1,12 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Power BI Learning</title>
-    <link href="https://powerbireference.github.io/powerbireference.github.io/feed.xml" rel="self" />
-    <link href="https://powerbireference.github.io/powerbireference.github.io" />
-    <updated>1970-01-01T05:00:00+05:00</updated>
+    <link href="https://powerbireference.github.io/feed.xml" rel="self" />
+    <link href="https://powerbireference.github.io" />
+    <updated>2021-01-08T04:47:03+05:00</updated>
     <author>
         <name>Adnan Khalil</name>
     </author>
-    <id>https://powerbireference.github.io/powerbireference.github.io</id>
+    <id>https://powerbireference.github.io</id>
 
+    <entry>
+        <title>Power BI Learning App</title>
+        <author>
+            <name>Adnan Khalil</name>
+        </author>
+        <link href="https://powerbireference.github.io/title.html"/>
+        <id>https://powerbireference.github.io/title.html</id>
+            <category term="tag 3"/>
+            <category term="tag 2"/>
+            <category term="Test Tag 1"/>
+
+        <updated>2021-01-08T04:47:03+05:00</updated>
+            <summary>
+                <![CDATA[
+                     Your Survival Guide to everything Power BI, which includes: Crash Course to Get Started with Power BI Complete List of Data Connectors (Step-by-Step Guides) Comprehensive List of Built-in &amp; Custom (Certified) Visualizations Complete Set of DAX Formulas (with Syntax &amp; Usage Examples) Detailed Overviews&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="your-survival-guide-to-everything-power-bi-which-includesbrbrcrash-course-to-get-started-with-power-bibrcomplete-list-of-data-connectors-stepbystep-guidesbrcomprehensive-list-of-builtin-amp-custom-certified-visualizationsbrcomplete-set-of-dax-formulas-with-syntax-amp-usage-examplesbrdetailed-overviews-on-power-bi-advanced-featuresnbspbr1000-power-bi-job-interview-questions">
+      Your Survival Guide to everything Power BI, which includes:<br><br>Crash Course to Get Started with Power BI<br>Complete List of Data Connectors (Step-by-Step Guides)<br>Comprehensive List of Built-in &amp; Custom (Certified) Visualizations<br>Complete Set of DAX Formulas (with Syntax &amp; Usage Examples)<br>Detailed Overviews on Power BI Advanced Features&nbsp;<br>1000+ Power BI Job Interview Questions
+    </h2>
+<hr class="separator separator--dots" />
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>

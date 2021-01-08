@@ -2,12 +2,29 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Power BI Learning",
     "description": "",
-    "home_page_url": "https://powerbireference.github.io/powerbireference.github.io",
-    "feed_url": "https://powerbireference.github.io/powerbireference.github.io/feed.json",
+    "home_page_url": "https://powerbireference.github.io",
+    "feed_url": "https://powerbireference.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Adnan Khalil"
     },
     "items": [
+        {
+            "id": "https://powerbireference.github.io/title.html",
+            "url": "https://powerbireference.github.io/title.html",
+            "title": "Power BI Learning App",
+            "summary": " Your Survival Guide to everything Power BI, which includes: Crash Course to Get Started with Power BI Complete List of Data Connectors (Step-by-Step Guides) Comprehensive List of Built-in &amp; Custom (Certified) Visualizations Complete Set of DAX Formulas (with Syntax &amp; Usage Examples) Detailed Overviews&hellip;",
+            "content_html": "\n    <h2 id=\"your-survival-guide-to-everything-power-bi-which-includesbrbrcrash-course-to-get-started-with-power-bibrcomplete-list-of-data-connectors-stepbystep-guidesbrcomprehensive-list-of-builtin-amp-custom-certified-visualizationsbrcomplete-set-of-dax-formulas-with-syntax-amp-usage-examplesbrdetailed-overviews-on-power-bi-advanced-featuresnbspbr1000-power-bi-job-interview-questions\">\n      Your Survival Guide to everything Power BI, which includes:<br><br>Crash Course to Get Started with Power BI<br>Complete List of Data Connectors (Step-by-Step Guides)<br>Comprehensive List of Built-in &amp; Custom (Certified) Visualizations<br>Complete Set of DAX Formulas (with Syntax &amp; Usage Examples)<br>Detailed Overviews on Power BI Advanced Features&nbsp;<br>1000+ Power BI Job Interview Questions\n    </h2>\n<hr class=\"separator separator--dots\" />\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Adnan Khalil"
+            },
+            "tags": [
+                   "tag 3",
+                   "tag 2",
+                   "Test Tag 1"
+            ],
+            "date_published": "2021-01-08T03:34:16+05:00",
+            "date_modified": "2021-01-08T04:47:03+05:00"
+        }
     ]
 }
